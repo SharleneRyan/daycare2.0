@@ -2,7 +2,7 @@ const data = require("./dayCareInfo");
 
 const eccArray = data.result.records;
 
-const filteredEccArray = eccArray.filter(ecc => ecc.Add1_City == "Wellington");
+const filteredEccArray = eccArray.filter(ecc => ecc.Add1_City == "Invercargill");
 
 console.log(filteredEccArray.length);
 
