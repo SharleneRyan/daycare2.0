@@ -41,12 +41,6 @@ toggleDrawer = (value) => {
         drawerOpen: value
     })
 }
-
- 
-
-
-
-
   
   render() {
     return (

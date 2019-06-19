@@ -64,9 +64,7 @@ class HomeInfo extends Component {
                             </div>
                         </div>
                     </Zoom>
-
-            
-                    
+                      
                 </div>
             </div>
         </div>
